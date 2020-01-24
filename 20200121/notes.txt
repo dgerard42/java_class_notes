@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                   .--.                       #
+#    notes.txt                                   __/ o  ".                     #
+#                                               `  ),    "-.                   #
+#    By: dany <github.com/dgerard42>               |;;,      "-._              #
+#                                                  ';;;,,    ",_ "=-._         #
+#    Created: 2020/01/21 14:13:20 by dany            ':;;;;,,..-``"-._`"-.     #
+#    Updated: 2020/01/21 15:57:29 by dany              _/_/`           `'"`    #
+#                                                                              #
+# **************************************************************************** #
+
+- absoloute java, good reference, modern, terribly written, comprehensive
+- java an eventful approach, well written, has graphics library stuff, but is
+    somewhat outdated and not current
+- every hour spent in planning is up to 10 hours saved from the rest of
+    development
+- when placing a shape in objectdraw it is a coordinate for the upper left coord
+- howeever, when placing text, it is the bottom left coord

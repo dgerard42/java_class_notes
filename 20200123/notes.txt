@@ -1,0 +1,36 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                   .--.                       #
+#    notes.txt                                   __/ o  ".                     #
+#                                               `  ),    "-.                   #
+#    By: dany <github.com/dgerard42>               |;;,      "-._              #
+#                                                  ';;;,,    ",_ "=-._         #
+#    Created: 2020/01/23 14:33:46 by dany            ':;;;;,,..-``"-._`"-.     #
+#    Updated: 2020/01/23 15:29:08 by dany              _/_/`           `'"`    #
+#                                                                              #
+# **************************************************************************** #
+
+- you always have to name the file EXACTLY the same as you name your class,
+    which needs to be present in every file
+- to make another class, you need to make another file
+- Java has no functions that aren't associated with a class, so call functions
+    methods, since methods are associated with class
+- System.out.println()
+    System.out is an object, println is a method
+- gets everyhting up to the next /n char and then returns it in a string
+    keyboard.next();
+- strings are objects too
+- for getting ints from input, use nextInt()
+- 8 things in java which are not not objects boolean, byte, char, short, int,
+    long, float, doubles
+- everyone doing analysis for wall street, programming for wall street, NEVER
+    use floating points
+- java will let you make your classes lowercase, however, NEVER DO THIS
+- string MyString is TERRIBLE, only use capitals when u r defining a class
+- only primitive variables are put on the stack, everything else goes on the
+    heap
+- think of all class variables as being basically pointers, pointing to the new
+    objects on the heap
+- all memory is automatically allocated and deleted
+- garabge collected languages are 20 - 30 % slower
+- in most cases programmer time is much more valuable than runtime 
