@@ -1,0 +1,44 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                   .--.                       #
+#    notes.txt                                   __/ o  ".                     #
+#                                               `  ),    "-.                   #
+#    By: dany <github.com/dgerard42>               |;;,      "-._              #
+#                                                  ';;;,,    ",_ "=-._         #
+#    Created: 2020/01/28 14:09:47 by dany            ':;;;;,,..-``"-._`"-.     #
+#    Updated: 2020/01/28 15:58:23 by dany              _/_/`           `'"`    #
+#                                                                              #
+# **************************************************************************** #
+
+- review
+    - System.out.println("string u want to print"); prints with /n
+    - primitive types aren't objects (all number data types)
+    - System.out.print just prints without /n
+    - System.out.print(objectName) prints out all the info of an object if there
+        is a tostring method
+    - there are a number of stanard input functions that get more input from
+        the input object. they all collect various types of input. you can
+        google them or check slides for a full list
+    - object variables are kinda like pointers
+- if you make variables within objects private, then you know that if there is
+    something terribly wrong with that variable, it has to be the fault of
+    something within the object that it belongs to
+- methods can be called messages as well
+- use as few instance variables as possible
+- variables only live inside the braces where they are declared
+- you often can't pass objects as parameters because methods need to have exactly
+    the right amount of parameters passed to them
+- extends is a keyword which extends an old class with additional features
+- if you define a constructor, you don't want to give it a type
+- intellij makes 
+- click class, refactor, rename changes all of the instances of that variable
+- you can also autogenerate
+- static is a keyword for variables means associated with that class
+- final is a keyword for variables which means associated with that class means
+    it cannot change
+- static + final == const
+- avoid contractions and abbreviations as much as possible in java variables
+- keep using consts as much as possible, they will continue to make code more
+    expandable and adjustable
+- consts are within the objects in java. at the top
+- you can acess your consts by referring to ClassName.CONST
