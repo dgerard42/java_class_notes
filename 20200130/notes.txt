@@ -1,0 +1,35 @@
+// ************************************************************************** //
+//                                                                            //
+//                                                  .--.                      //
+//   notes.txt                                   __/ o  ".                    //
+//                                                 ),    "-.                  //
+//   By: dany <github.com/dgerard42>               |;;,      "-._             //
+//                                                 ';;;,,    ",_ "=-._        //
+//   Created: 2020/01/30 14:09:20 by dany            ':;;;;,,..-``"-._`"-.    //
+//   Updated: 2020/01/30 15:47:18 by dany              _/_/`           `'"`   //
+//                                                                            //
+// ************************************************************************** //
+
+ - when u do an operation with a more precise and a less precise data type, the
+    result is the more precise data type
+- boole georg died because his doctors believed that the conditions which gave
+    him the illness would cure him, and since he had walked through a heavy
+    rainstorm, they covered him in wet blankets while he had pneumonia until he
+    died
+- bitwise operators 
+        - & == look at x && y bit by bit and turn on the bits in z that are both
+            on in x && y
+- mutators - change an object
+- acessors - used to access info about an object
+- constructors - builds an object
+- pu
+- start(); starts a new thread
+- there is a max number of threads after which threading becomes less efficient,
+    which depends on how many CPU cores you have
+- Gabe's hours in the LRC are Wednesday 1-4pm
+
+STYLE GUIDE
+
+- instance variables at the top in Java, at Stanford you put em at the bottom X(
+- 
+ 

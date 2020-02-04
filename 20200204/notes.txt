@@ -1,0 +1,27 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                   .--.                       #
+#    notes.txt                                   __/ o  ".                     #
+#                                                  ),    "-.                   #
+#    By: dany <github.com/dgerard42>               |;;,      "-._              #
+#                                                  ';;;,,    ",_ "=-._         #
+#    Created: 2020/02/04 14:28:32 by dany            ':;;;;,,..-``"-._`"-.     #
+#    Updated: 2020/02/04 15:19:18 by dany              _/_/`           `'"`    #
+#                                                                              #
+# **************************************************************************** #
+
+- try as much as possible to declare objects to make the code clearer
+    - for example, with the expanding diamond project, make Line and Location
+        object declarations
+- also, don't forget to create functions just because youre in java
+- don't use active objects in broomball
+- to generate random number
+    import java.util.random
+    private Random rng;
+    rng = new Random;
+    rng.nextInt(100); 100 is the highest, 0 is the lowest range
+    rng.nextInt(100) - 200; for custom ranges, use this technique
+- colors are objects
+    import java.awt.*
+    color heliotrope = new Color(100, 143, 044);
+    color numbers are btwn 0 and 255
