@@ -1,0 +1,32 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                   .--.                       #
+#    notes.txt                                   __/ o  ".                     #
+#                                                  ),    "-.                   #
+#    By: dany <github.com/dgerard42>               |;;,      "-._              #
+#                                                  ';;;,,    ",_ "=-._         #
+#    Created: 2020/02/06 14:11:37 by dany            ':;;;;,,..-``"-._`"-.     #
+#    Updated: 2020/02/06 15:20:47 by dany              _/_/`           `'"`    #
+#                                                                              #
+# **************************************************************************** #
+
+- only use an active object if something is animated without user input/action
+- group project guide
+    - state the problem
+    - pseudocode
+    - implement the code together
+- return the condition instead of returning a boolean on whether or not the
+    condition is true
+- make your functions private unless you absoloutely have to make it public
+- if someone on your team can do something, assume they eventually will
+- once someone else starts using your method, then if you go back and bugfix
+    or make it more efficient, then it can destroy someone elses code
+- when we pass a reference variable, it passes the address pf that variable
+    (anything that is not a primitive variable)
+- you cant pass primitive variables by reference
+- you cant declare a reference variable as a constant, only the pointer of
+    the reference variable
+- translate() changes the object itself, offset() returns a new point
+- strings are actually immutable, only appear to change, so you can
+    actually use them as constants
+
