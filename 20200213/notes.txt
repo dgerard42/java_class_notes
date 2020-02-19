@@ -1,0 +1,33 @@
+// ************************************************************************** //
+//                                                                            //
+//                                                  .--.                      //
+//   notes.txt                                   __/ o  ".                    //
+//                                                 ),    "-.                  //
+//   By: dany <github.com/dgerard42>               |;;,      "-._             //
+//                                                 ';;;,,    ",_ "=-._        //
+//   Created: 2020/02/13 14:27:14 by dany            ':;;;;,,..-``"-._`"-.    //
+//   Updated: 2020/02/13 15:40:18 by dany              _/_/`           `'"`   //
+//                                                                            //
+// ************************************************************************** //
+
+- it will automatically initialize everything in the array to zero
+- if you go out of range it IMMeDIATELY CRASHES
+- you can actually return arrays
+- privacy leak - if you return a private variable 
+- if you make a copy of your oject before you return it, you no longer have
+    privacy leak
+- return a new Class(getter for value(), getter for current value(), ect...);
+- hide that new object
+- return
+- remove from canvas after return of the ball to the other object
+- array lists are the vectors of java
+- but array lists don't let you store primitive variables :(
+- there are special foreach loops for array lists
+    for (int number: integerList)
+- getting array.length you dont need the parens, because length is an
+    instance variable of the array object
+- arraylist <Integer> allows you to use integers
+- you can also foreach arrays
+- you have to pass in wall object reference variables so that you can check
+    for collisions
+

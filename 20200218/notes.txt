@@ -1,0 +1,21 @@
+// ************************************************************************** //
+//                                                                            //
+//                                                  .--.                      //
+//   notes.txt                                   __/ o  ".                    //
+//                                                 ),    "-.                  //
+//   By: dany <github.com/dgerard42>               |;;,      "-._             //
+//                                                 ';;;,,    ",_ "=-._        //
+//   Created: 2020/02/18 14:57:54 by dany            ':;;;;,,..-``"-._`"-.    //
+//   Updated: 2020/02/18 15:25:13 by dany              _/_/`           `'"`   //
+//                                                                            //
+// ************************************************************************** //
+
+- super keyword means call the constructor of my parent class. if you include
+    this, it must be the first thing in your constructor
+- everything inherits from the gr8 Object in the sky
+- the usual way that extened classes are referred to is as children of the
+    parent classes
+- copy constructors make an exact copy of the objecy you send to them
+- copy constructors are great for preventing privacy leaks
+- base class & derived class
+- if u can do things with composition instead of inherentanc, u should do it 
