@@ -1,0 +1,20 @@
+// ************************************************************************** //
+//                                                                            //
+//                                                  .--.                      //
+//   notes.txt                                   __/ o  ".                    //
+//                                                 ),    "-.                  //
+//   By: dany <github.com/dgerard42>               |;;,      "-._             //
+//                                                 ';;;,,    ",_ "=-._        //
+//   Created: 2020/02/27 14:37:48 by dany            ':;;;;,,..-``"-._`"-.    //
+//   Updated: 2020/02/27 15:07:48 by dany              _/_/`           `'"`   //
+//                                                                            //
+// ************************************************************************** //
+
+- overriding - if you ave multiple methods in an inheritance hierarchy that
+    have the same name and take the same parameters, Java will figure out how to
+    call the derived class's version of that method, even if youre accessing
+    the object through a variable of the parent class's type
+
+- multiple inheritances are not possible in java
+
+- have an active object that has a filled rect and moves a filled rect
