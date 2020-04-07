@@ -1,0 +1,23 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                   .--.                       #
+#    notes.txt                                   __/ o  ".                     #
+#                                                  ),    "-.                   #
+#    By: dany <github.com/dgerard42>               |;;,      "-._              #
+#                                                  ';;;,,    ",_ "=-._         #
+#    Created: 2020/03/10 14:33:05 by dany            ':;;;;,,..-``"-._`"-.     #
+#    Updated: 2020/03/10 15:07:05 by dany              _/_/`           `'"`    #
+#                                                                              #
+# **************************************************************************** #
+
+- overriding - when a child class has the same fucntion as the parent class with
+    the same name, but does different things. the child class version is used
+    by the compiler
+- overloading - when you have a function that takes different parameters
+- never call equals from Object. that is overloading not overriding and causes
+    subtle bugs
+- It is part of the Java desgin that we keep the implementation details as hidden
+    as possible
+    - the theory behind this is to prevent others from relying on details of
+        your implementation so that you can make changes down the road
+-

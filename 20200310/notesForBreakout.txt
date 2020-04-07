@@ -1,0 +1,19 @@
+// ************************************************************************** //
+//                                                                            //
+//                                                  .--.                      //
+//   notesForBreakout.txt                        __/ o  ".                    //
+//                                                 ),    "-.                  //
+//   By: dany <github.com/dgerard42>               |;;,      "-._             //
+//                                                 ';;;,,    ",_ "=-._        //
+//   Created: 2020/03/10 15:54:00 by dany            ':;;;;,,..-``"-._`"-.    //
+//   Updated: 2020/03/10 16:07:39 by dany              _/_/`           `'"`   //
+//                                                                            //
+// ************************************************************************** //
+
+- make a hash map for the bricks. The position of the brick which was collided
+    with is the the key for the hash map
+
+
+- pong changes
+    - remove object
+    - and also, make sure that you make the sizes thing abstract
