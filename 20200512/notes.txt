@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                   .--.                       #
+#    notes.txt                                   __/ o  ".                     #
+#                                               `  ),    "-.                   #
+#    By: doot <github.com/dgerard42>               |;;,      "-._              #
+#                                                  ';;;,,    ",_ "=-._         #
+#    Created: 2020/05/12 14:31:33 by doot            ':;;;;,,..-``"-._`"-.     #
+#    Updated: 2020/05/12 14:38:23 by doot              _/_/`           `'"`    #
+#                                                                              #
+# **************************************************************************** #
+
+- when you return a primitive variable in java, you are passing by value, which
+    is making a copy of your variable
+- when you return an object in java, you are passing by reference
+- if you return an arraylist you are allowing that to get all fucked up even if
+    it is a private array list
+- this is called a privacy leak and can cause serious bugs because you can get
+    more access to the objects in those array listed objects than you should
