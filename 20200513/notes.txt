@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                   .--.                       #
+#    notes.txt                                   __/ o  ".                     #
+#                                               `  ),    "-.                   #
+#    By: doot <github.com/dgerard42>               |;;,      "-._              #
+#                                                  ';;;,,    ",_ "=-._         #
+#    Created: 2020/05/13 13:24:18 by doot            ':;;;;,,..-``"-._`"-.     #
+#    Updated: 2020/05/13 13:53:21 by doot              _/_/`           `'"`    #
+#                                                                              #
+# **************************************************************************** #
+
+- arrays lists are somewhat inefficient for acessing items 
+- adding and especially removing elements from array lists sucks
+- getting things from the middle is inefficient for linked lists, but it's
+    great for when you usually need to acess the front and end 
+- array lists are written into memory in one big chonk, everything is next to
+    each other, so when u cache memory it will all be right there
+- next hasNext are used for reading if you are doing one word at a time
